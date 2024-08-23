@@ -2,8 +2,9 @@
 
 int main(){
 
-    printf("kjkhjkij");
-    printf("kjkdhjjwjkij");
-    printf("kjkhjdqqwdqwkij");
+    printf("kjkhjkij\n");
+    printf("kjkdhjjwjkij\n");
+    printf("kjkhjdqqwdqwkij\n");
 return 0;
 }
+// hey this is prateek  jain
