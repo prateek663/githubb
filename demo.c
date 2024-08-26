@@ -6,5 +6,5 @@ int main(){
     printf("kjkdhjjwjkij\n");
     printf("kjkhjdqqwdqwkij\n");
 return 0;
-}
+} 
 // hey this is prateek  jain
